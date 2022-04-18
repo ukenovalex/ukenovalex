@@ -1,2 +1,2 @@
-Hi! I'm a junior React developer
+Hi! I'm a Full-stack developer. 
 
