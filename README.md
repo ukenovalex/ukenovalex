@@ -1,2 +1,2 @@
-Hi! I'm a Full-stack developer. 
+Hi! I'm a Android developer. 
 
